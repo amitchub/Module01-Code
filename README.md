@@ -5,4 +5,4 @@ Relevant Images:
 ---
 ![OutcomesBasedOnLaunchDate.png](https://github.com/amitchub/kickstarter-analysis/blob/main/OutcomesBasedOnLaunchDate.png)
 ---
-
+![ParentCategoryOutcomes.png](https://github.com/amitchub/kickstarter-analysis/blob/main/ParentCategoryOutcomes.png)
