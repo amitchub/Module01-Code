@@ -3,4 +3,4 @@ Perform analysis on Kickstarter data to uncover trends
 
 Relevant Images:
 ---
-![image_name](path/to/image_name.png)
+![OutcomesBasedOnLaunchDate.png](kickstarter-analysis/OutcomesBasedOnLaunchDate.png)
