@@ -3,4 +3,6 @@ Perform analysis on Kickstarter data to uncover trends
 
 Relevant Images:
 ---
-![OutcomesBasedOnLaunchDate.png](kickstarter-analysis/OutcomesBasedOnLaunchDate.png)
+![OutcomesBasedOnLaunchDate.png](https://github.com/amitchub/kickstarter-analysis/blob/main/OutcomesBasedOnLaunchDate.png)
+---
+
